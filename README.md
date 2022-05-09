@@ -4,7 +4,7 @@ Hey! 👋 My name is Miguel Turpo
 Frontend Trainee
 ----------------
 
-Frontend but I would like also to become a full stack but currently I'm focused in learning new front-end technologies.
+Frontend but I would like also to become a full stack. Currently I'm focused in learning new front-end technologies.
 
 * 🌍  I'm based in Peru
 * ✉️  You can contact me at [migangelturpo@gmail.com](mailto:migangelturpo@gmail.com)
