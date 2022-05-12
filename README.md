@@ -1,7 +1,7 @@
 Hey! 👋 My name is Miguel Turpo
 =============================
 
-Frontend Trainee
+Frontend Dev
 ----------------
 
 Frontend but I would like also to become a full stack. Currently I'm focused in learning new front-end technologies.
